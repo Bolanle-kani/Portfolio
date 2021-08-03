@@ -2,7 +2,7 @@
 *An Enthuasiast Data Scientist*
 
 # Education
-* Bachelors of Science (Geology), *YouTube University*, 2013-2018
+* Bachelors of Science (Geology), * Obafemi Awolowo University*, 2013-2018
 
 # Machine Learning engineer | Artificial Intelligence Crypto Investment Bank
 
