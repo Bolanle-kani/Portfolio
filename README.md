@@ -29,3 +29,7 @@ visualization, violin plot visualization, kernel density estimation
 database
 * Integration of new data sources in cooperation with the software development team
 * Assisting with internal development projects recommending corrective action and future improvement.
+
+# [Loan Prediction](https://github.com/Women-Techsters-Fellowship-2021/Loan-Prediction-Model)
+* Analyzed and visualized data
+* Worked with a team tp build an algorithm for loan prediction
