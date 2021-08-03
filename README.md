@@ -1,20 +1,31 @@
-# John Doe
-*An Aspiring Data Scientist | 2X Kaggle Grandmaster*
+# Omobolanle Adeyemi
+*An Enthuasiast Data Scientist*
 
 # Education
-* Masters of Science (Data Science), *YouTube University*, 2016-2018
-* Bachelors of Science (Data Science), *YouTube University*, 2012-2016
+* Bachelors of Science (Geology), *YouTube University*, 2013-2018
 
-# [Project 1: Crypto Sentiment Analysis](http://youtube.com/dataprofessor)
+# Machine Learning engineer | Artificial Intelligence Crypto Investment Bank
 
-This project integrates various news source for performing sentiment analysis pertaining to cryptocurrencies.
-* **Python libraries used:** Streamlit, Huggingface, TensorFlow
-* **Input:** Tweets, News
-* **Output:** Sentiment of Cryptocurrency
+* Worked with a team in mining and scrapping data from social media (Twitter) and coin market cap API
+* Cleaned and re-arranged the dataset
+* Collected and prepared natural language and time series data for the financial machine learning platform
 
-# [Project 2: Crypto Trading Bot](http://youtube.com/dataprofessor)
+# [Geo-spatial-analysis](https://github.com/Bolanle-kani/Geo-spatial-analysis)
 
-This project makes use of ***sentiment analysis*** of cryptocurrency coupled with ***technical analysis*** in the trading of cryptocurrencies.
-* **Python libraries used:** Streamlit, python-binance, cctx, talib
-* **Input:** Cryptocurrency historical price
-* **Output:** Trading signals triggers buying and selling
+* Analysed the spread of covid-19 across the world, showing the most affected countries
+* Produced map showing the average temperature of a country relative to their paeticualar year
+
+# Data Science (Bootcamp)| Data Science Nigeria
+* Analyzed and visualized data
+* Worked with team in building algorithm on a project to predict the likelihood of each customer becoming 
+inactive and not making any transaction within 90days
+
+# Data Analyst (Internship) | TakenMind International Organization
+* Ensured that all information were successfully imported into the system by monitoring and controlling all data 
+upload applications as well as the data quality of data providers
+* Visualized data using the seaborn library for heatmap visualization, boxplot visualization, cluster map 
+visualization, violin plot visualization, kernel density estimation
+* Developing and executing processes for monitoring, maintaining, improving and restoring quality in our 
+database
+* Integration of new data sources in cooperation with the software development team
+* Assisting with internal development projects recommending corrective action and future improvement.
