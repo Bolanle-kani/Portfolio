@@ -15,7 +15,7 @@
 * Analysed the spread of covid-19 across the world, showing the most affected countries
 * Produced map showing the average temperature of a country relative to their paeticualar year
 
-# Data Science (Bootcamp)| Data Science Nigeria
+# [Data Science (Bootcamp)| Data Science Nigeria](https://github.com/Bolanle-kani/Customer-s-inactive-prediction)
 * Analyzed and visualized data
 * Worked with team in building algorithm on a project to predict the likelihood of each customer becoming 
 inactive and not making any transaction within 90days
@@ -32,4 +32,4 @@ database
 
 # [Loan Prediction](https://github.com/Women-Techsters-Fellowship-2021/Loan-Prediction-Model)
 * Analyzed and visualized data
-* Worked with a team tp build an algorithm for loan prediction
+* Worked with a team t0 build an algorithm for loan prediction
