@@ -4,7 +4,7 @@
 # Education
 * Bachelors of Science (Geology), *Obafemi Awolowo University*, 2013-2018
 
-# Machine Learning engineer | Artificial Intelligence Crypto Investment Bank
+# Machine Learning engineer|Artificial Intelligence Crypto Investment Bank
 
 ![pierre-borthiry-vBCVcWUyvyM-unsplash (1)](https://user-images.githubusercontent.com/54512262/128442257-8e90a50b-1762-415e-8ad7-75784752c16f.jpg)
 
@@ -17,16 +17,20 @@ Photo by <a href="https://unsplash.com/@peiobty?utm_source=unsplash&utm_medium=r
 
 # [Geo-spatial-analysis](https://github.com/Bolanle-kani/Geo-spatial-analysis)
 
+![Screenshot (25)](https://user-images.githubusercontent.com/54512262/128442638-62cee139-e2cc-4ff6-ae5d-f3c3535902ca.png)
+
+
 * Analysed the spread of covid-19 across the world, showing the most affected countries
 * Produced map showing the average temperature of a country relative to their paeticualar year
 
-# [Data Science (Bootcamp)| Data Science Nigeria](https://github.com/Bolanle-kani/Customer-s-inactive-prediction)
+# [Data Science (Bootcamp)|Data Science Nigeria](https://github.com/Bolanle-kani/Customer-s-inactive-prediction)
 * Analyzed and visualized data
 * Worked with team in building algorithm on a project to predict the likelihood of each customer becoming 
 inactive and not making any transaction within 90days
 
-# Data Analyst (Internship) | TakenMind International Organization
-![alt text](OIP(1).jpg)
+# Data Analyst (Internship)
+![Uploading Screenshot (25).png…]()
+
 * Ensured that all information were successfully imported into the system by monitoring and controlling all data 
 upload applications as well as the data quality of data providers
 * Visualized data using the seaborn library for heatmap visualization, boxplot visualization, cluster map 
@@ -37,5 +41,9 @@ database
 * Assisting with internal development projects recommending corrective action and future improvement.
 
 # [Loan Prediction](https://github.com/Women-Techsters-Fellowship-2021/Loan-Prediction-Model)
+
+![OIP](https://user-images.githubusercontent.com/54512262/128442719-96610bf7-1c80-49ba-9ae7-d78e5f7f0885.jpg)
+
+
 * Analyzed and visualized data
 * Worked with a team t0 build an algorithm for loan prediction
