@@ -5,7 +5,7 @@
 * Bachelors of Science (Geology), *Obafemi Awolowo University*, 2013-2018
 
 # Machine Learning engineer | Artificial Intelligence Crypto Investment Bank
-![alt text](OIP(1).jpg)
+![alt text](https://github.com/Bolanle-kani/Portfolio/blob/main/OIP%20(1).jpg)
 
 * Worked with a team in mining and scrapping data from social media (Twitter) and coin market cap API
 * Cleaned and re-arranged the dataset
