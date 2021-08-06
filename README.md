@@ -5,6 +5,7 @@
 * Bachelors of Science (Geology), *Obafemi Awolowo University*, 2013-2018
 
 # Machine Learning engineer | Artificial Intelligence Crypto Investment Bank
+![alt text](OIP(1).jpg)
 
 * Worked with a team in mining and scrapping data from social media (Twitter) and coin market cap API
 * Cleaned and re-arranged the dataset
@@ -21,6 +22,7 @@
 inactive and not making any transaction within 90days
 
 # Data Analyst (Internship) | TakenMind International Organization
+![alt text](OIP(1).jpg)
 * Ensured that all information were successfully imported into the system by monitoring and controlling all data 
 upload applications as well as the data quality of data providers
 * Visualized data using the seaborn library for heatmap visualization, boxplot visualization, cluster map 
