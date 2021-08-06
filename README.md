@@ -5,8 +5,8 @@
 * Bachelors of Science (Geology), *Obafemi Awolowo University*, 2013-2018
 
 # Machine Learning engineer | Artificial Intelligence Crypto Investment Bank
-![alt text] (https://github.com/Bolanle-kani/Portfolio/blob/main/download.jpg)
-Photo by <a href="https://unsplash.com/@silverhousehd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">André François McKenzie</a> on <a href="https://unsplash.com/s/photos/cryptocurrency?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+![alt text] (pierre-borthiry-vBCVcWUyvyM-unsplash (1).png)
+Photo by <a href="https://unsplash.com/@peiobty?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Pierre Borthiry</a> on <a href="https://unsplash.com/s/photos/bitcoin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 * Worked with a team in mining and scrapping data from social media (Twitter) and coin market cap API
 * Cleaned and re-arranged the dataset
