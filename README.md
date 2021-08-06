@@ -5,7 +5,9 @@
 * Bachelors of Science (Geology), *Obafemi Awolowo University*, 2013-2018
 
 # Machine Learning engineer | Artificial Intelligence Crypto Investment Bank
-![alt text](pierre-borthiry-vBCVcWUyvyM-unsplash (1).jpg)
+
+![pierre-borthiry-vBCVcWUyvyM-unsplash (1)](https://user-images.githubusercontent.com/54512262/128442257-8e90a50b-1762-415e-8ad7-75784752c16f.jpg)
+
 
 Photo by <a href="https://unsplash.com/@peiobty?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Pierre Borthiry</a> on <a href="https://unsplash.com/s/photos/bitcoin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
