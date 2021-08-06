@@ -17,7 +17,8 @@ Photo by <a href="https://unsplash.com/@peiobty?utm_source=unsplash&utm_medium=r
 
 # [Geo-spatial-analysis](https://github.com/Bolanle-kani/Geo-spatial-analysis)
 
-![Screenshot (25)](https://user-images.githubusercontent.com/54512262/128442638-62cee139-e2cc-4ff6-ae5d-f3c3535902ca.png)
+![Screenshot (26)](https://user-images.githubusercontent.com/54512262/128443866-237603ef-65c7-482e-af2a-1f40114809b9.png)
+
 
 
 * Analysed the spread of covid-19 across the world, showing the most affected countries
@@ -29,7 +30,12 @@ Photo by <a href="https://unsplash.com/@peiobty?utm_source=unsplash&utm_medium=r
 inactive and not making any transaction within 90days
 
 # Data Analyst (Internship)
-![Uploading Screenshot (25).png…]()
+
+![luke-chesser-JKUTrJ4vK00-unsplash](https://user-images.githubusercontent.com/54512262/128443560-93fb2929-d26c-45e5-8a7f-d7229f7f28d0.jpg)
+
+
+Photo by <a href="https://unsplash.com/@lukechesser?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Luke Chesser</a> on <a href="https://unsplash.com/s/photos/google-data?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
 
 * Ensured that all information were successfully imported into the system by monitoring and controlling all data 
 upload applications as well as the data quality of data providers
