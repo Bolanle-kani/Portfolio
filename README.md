@@ -53,3 +53,6 @@ database
 
 * Analyzed and visualized data
 * Worked with a team t0 build an algorithm for loan prediction
+
+
+# [Linkedln](linkedin.com/in/bolanle-adeyemi-205a20153)
