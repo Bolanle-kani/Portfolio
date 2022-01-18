@@ -4,7 +4,7 @@
 # Education
 * Bachelors of Science (Geology), *Obafemi Awolowo University*, 2013-2018
 
-# [Data Scientist | Women Techsters, Tech4Dev] (https://github.com/Women-Techsters-Fellowship-2021/FinalProject-Group7-Phoenix-Frontend/tree/master/e-cycle)
+# [Data Scientist | Women Techsters, Tech4Dev](https://github.com/Women-Techsters-Fellowship-2021/FinalProject-Group7-Phoenix-Frontend/tree/master/e-cycle)
 
 * Examined datasets with more than 10,000 items in Python and Excel and came up with 
 actionable conclusions as a result of my work
@@ -15,11 +15,9 @@ using an image detection technique for material recycling
 * Used SQL to query and analyze data in order to gain significant information, resulting in a 95 
 percent increase in sales
 
-# [Data Science Network | Data Science/Tutor] (https://drive.google.com/file/d/1ooewwzLwj56f_1rwXhS9v3jIrLkmOt6b/view?usp=sharing)
+# [Data Science Network | Data Science/Tutor](https://drive.google.com/file/d/1ooewwzLwj56f_1rwXhS9v3jIrLkmOt6b/view?usp=sharing)
 
-*Designed an algorithm on a project to predict the likelihood of each customer becoming 
-inactive and not making any transaction within 90days
-*Trained more than 30 students on Artificial intelligence 
+*Trained more than 30 students for more than 30hours of Introductory Machine learning on Artificial intelligence
 
 
 # Machine Learning engineer|Artificial Intelligence Crypto Investment Bank
