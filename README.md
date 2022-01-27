@@ -34,6 +34,9 @@ Photo by <a href="https://unsplash.com/@peiobty?utm_source=unsplash&utm_medium=r
 # [Sql data analysis](https://github.com/Bolanle-kani/Sql-data-analysis)
 I queried a database using sql to draw meaningful insight from the data
 
+# [Data analysis using python](https://github.com/Bolanle-kani/Quantium-Data-Analysis)
+Conduct analysis on your client's transaction dataset and identify customer purchasing behaviours to generate insights and provide commercial recommendations.
+
 # [Geo-spatial-analysis](https://github.com/Bolanle-kani/Geo-spatial-analysis)
 
 ![Screenshot (26)](https://user-images.githubusercontent.com/54512262/128443866-237603ef-65c7-482e-af2a-1f40114809b9.png)
